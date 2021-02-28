@@ -1,0 +1,1 @@
+# calculation-of-the-position-of-the-claw-of-a-robot
